@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ Eng Md. Rezaul Huq Masud
+- 👋 Hi, I’m @Eng Md. Rezaul Huq Masud
 - 👀 I’m interested in ... doing web development and coding.
 - 🌱 I’m currently learning ... Web Development both front and back End.
 - 💞️ I’m looking to collaborate on ...
